@@ -1,2 +1,2 @@
-
-C-Helix is the departmental team of civil engineering on fest nimbus at NIT Hamirpur.
+**C-Helix**
+C-Helix is the departmental team of civil engineering on Tech-fest Nimbus at NIT Hamirpur.
